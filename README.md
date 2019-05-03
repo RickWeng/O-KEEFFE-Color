@@ -34,7 +34,7 @@ okeeffe.col(name, n = NULL)
 
 ## Palettes and Color Hex Codes
 ```
-okeeffe.col.all()
+okeeffe.all.show()
 ```
 ![](https://github.com/RickWeng/OKeeffeColor/blob/master/figures/All_Show.png)
 ```

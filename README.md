@@ -1,5 +1,5 @@
 # OKeeffeColor
-OKeeffeColor is a color package developed for R. Color palettes in the package were extracted by Georgie St Clair from Georgia O'Keeffe's paintings. 
+OKeeffeColor is a color package developed for R. The package is in development. More color palettes will Color palettes in the package were extracted by Georgie St Clair from Georgia O'Keeffe's paintings.
 
 ## Installation
 ```

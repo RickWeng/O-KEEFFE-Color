@@ -131,9 +131,9 @@ okeeffe.col.show <- function (name, n = NULL) {
         col = okeeffe.col(name, n),
         ylab = "", xaxt = "n", yaxt = "n", 
         bty = "n", oldstyle = TRUE)
-  rect(xleft = 0, ybottom = 0.9, xright = n + 1, ytop = 1.1, 
+  rect(xleft = 0, ybottom = 1.2, xright = n + 1, ytop = 1.4, 
        col = rgb(1, 1, 1, 0.5), border = NA)
-  text((n + 1) / 2, 1, 
+  text((n + 1) / 2, 1.3, 
        labels = paste0(gsub("_", " ", name), 
                        ", ", 
                        okeeffe.col.info[which(okeeffe.col.info$name == name), 2]), 

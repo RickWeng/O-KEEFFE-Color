@@ -40,25 +40,23 @@ okeeffe.col.all()
 ```
 okeeffe.col.show("Black_Iris_II")
 ```
-
+![](https://github.com/RickWeng/OKeeffeColor/blob/master/figures/Black_Iris_II.png)
 ```
 okeeffe.col("Black_Iris_II")
 [1] "#EEDDD6" "#D5B3BA" "#968787" "#E5EDDA" "#0B0A08"
 ```
-
 ```
 okeeffe.col.show("Blue_and_Green_Music")
 ```
-
+![](https://github.com/RickWeng/OKeeffeColor/blob/master/figures/Blue_and_Green_Music.png)
 ```
 okeeffe.col("Blue_and_Green_Music")
 [1] "#E3EED1" "#C0D7C7" "#3D4D39" "#282E42"
 ```
-
 ```
 okeeffe.col.show("Two_Pink_Shells")
 ```
-![](https://github.com/RickWeng/OKeeffeColor/blob/master/figures/Two-Pink-Shells.png)
+![](https://github.com/RickWeng/OKeeffeColor/blob/master/figures/Two_Pink_Shells.png)
 ```
 okeeffe.col("Two_Pink_Shells")
 [1] "#E7D2C0" "#BE8271" "#979087"

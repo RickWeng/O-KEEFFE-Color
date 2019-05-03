@@ -45,6 +45,7 @@ okeeffe.col.show("Black_Iris_II")
 okeeffe.col("Black_Iris_II")
 [1] "#EEDDD6" "#D5B3BA" "#968787" "#E5EDDA" "#0B0A08"
 ```
+
 ```
 okeeffe.col.show("Blue_and_Green_Music")
 ```
@@ -53,6 +54,7 @@ okeeffe.col.show("Blue_and_Green_Music")
 okeeffe.col("Blue_and_Green_Music")
 [1] "#E3EED1" "#C0D7C7" "#3D4D39" "#282E42"
 ```
+
 ```
 okeeffe.col.show("Two_Pink_Shells")
 ```
@@ -61,7 +63,6 @@ okeeffe.col.show("Two_Pink_Shells")
 okeeffe.col("Two_Pink_Shells")
 [1] "#E7D2C0" "#BE8271" "#979087"
 ```
-
 ## Example Figures
 
 ## Paintings

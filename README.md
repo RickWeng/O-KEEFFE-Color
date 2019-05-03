@@ -36,7 +36,7 @@ okeeffe.col(name, n = NULL)
 ```
 okeeffe.col.all()
 ```
-
+![](https://github.com/RickWeng/OKeeffeColor/blob/master/figures/All_Show.png)
 ```
 okeeffe.col.show("Black_Iris_II")
 ```

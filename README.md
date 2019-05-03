@@ -18,7 +18,6 @@ okeeffe.col.info
 1        Black_Iris_II 1926              5
 2 Blue_and_Green_Music 1921              4
 3      Two_Pink_Shells 1937              3
-
 ```
 OKeeffeColor
 ## Palettes

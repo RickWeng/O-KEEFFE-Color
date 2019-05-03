@@ -11,7 +11,7 @@ devtools::install_github("RickWeng/OKeeffeColor")
 ```
 library("OKeeffeColor")
 
-# check information of all available color palettes
+# check information of available color palettes
 okeeffe.col.info
 
                   name year max_num_colors
@@ -19,11 +19,43 @@ okeeffe.col.info
 2 Blue_and_Green_Music 1921              4
 3      Two_Pink_Shells 1937              3
 ```
-OKeeffeColor
-## Palettes
+```
+# show all selected palettes
+okeeffe.all.show(name = NULL, n = NULL)
+```
+```
+# show a specific color palette
+okeeffe.col.show(name, n = NULL)
+```
+```
+# get color hex code of a specific plaette
+okeeffe.col(name, n = NULL)
+```
 
+## Palettes and Color Hex Codes
+```
+okeeffe.col.all()
+```
+```
+okeeffe.col.show("Black_Iris_II")
+```
+```
+okeeffe.col("Black_Iris_II")
+```
+```
+okeeffe.col.show("Blue_and_Green_Music")
+```
+```
+okeeffe.col("Blue_and_Green_Music")
+```
+```
+okeeffe.col.show("Two_Pink_Shells")
+```
 ![](https://github.com/RickWeng/OKeeffeColor/blob/master/figures/Two-Pink-Shells.png)
-## Examples
+```
+okeeffe.col("Two_Pink_Shells")
+```
+## Example Figures
 
 ## Paintings
 Below are Georgia O'Keeffe's paintings modified by Georgie St Clair.      

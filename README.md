@@ -10,7 +10,8 @@ devtools::install_github("RickWeng/OKeeffeColor")
 ## Usage
 ```
 library("OKeeffeColor")
-
+```
+```
 # check information of available color palettes
 okeeffe.col.info
 

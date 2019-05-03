@@ -20,6 +20,7 @@ OKeeffeColor
 ## Palettes
 name of painting should be centered at the first color as modified painting below.    
 change name of painting to "painting, year"   
+## Examples
 
 ## Paintings
 Below are Georgia O'Keeffe's paintings modified by Georgie St Clair.      

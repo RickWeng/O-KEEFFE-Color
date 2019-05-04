@@ -65,8 +65,7 @@ okeeffe.col("Two_Pink_Shells")
 ```
 ## Example Figures
 ![](https://github.com/RickWeng/OKeeffeColor/blob/master/example%20figures/Blue_and_Green_Music_Example.png)
-![]
-(https://github.com/RickWeng/OKeeffeColor/blob/master/example%20figures/Two_Pink_Shells_Example3.png)
+![](https://github.com/RickWeng/OKeeffeColor/blob/master/example%20figures/Two_Pink_Shells_Example3.png)
 ![](https://github.com/RickWeng/OKeeffeColor/blob/master/example%20figures/Two_Pink_Shells_Example2.png)
 
 ## Paintings

@@ -64,6 +64,7 @@ okeeffe.col("Two_Pink_Shells")
 [1] "#E7D2C0" "#BE8271" "#979087"
 ```
 ## Example Figures
+![](https://github.com/RickWeng/OKeeffeColor/blob/master/example%20figures/Blue_and_Green_Music_Example.png)
 ![](https://github.com/RickWeng/OKeeffeColor/blob/master/example%20figures/Two_Pink_Shells_Example.png)
 ## Paintings
 Below are Georgia O'Keeffe's paintings modified by Georgie St Clair.      

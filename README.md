@@ -75,4 +75,4 @@ Georgie St Clair is an amazing designer. More works are available on her [Instag
 ![twoshells](https://github.com/RickWeng/OKeeffeColor/blob/master/Two-Shells.jpg)
 
 ## Acknowledgement
-There are many R color palettes availablel, which makes life much easier. This package was inspired by [RColorBrewer](https://github.com/cran/RColorBrewer) and [wesanderson](https://github.com/karthik/wesanderson).
+There are many R color palettes availablel, which makes life much easier. This package was inspired by [RColorBrewer](https://github.com/cran/RColorBrewer) and [wesanderson](https://github.com/karthik/wesanderson). Example figures were modified from [from Data to Viz](https://www.data-to-viz.com).
